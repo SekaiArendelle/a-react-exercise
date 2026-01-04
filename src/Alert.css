@@ -1,0 +1,15 @@
+.hidden-alert {
+    display: none;
+}
+
+.display-alert {
+    display: flex;
+    background-color: yellow;
+    max-width: 500px;
+}
+
+.close-alert-button {
+    background-color: red;
+    margin-left: auto;
+}
+
